@@ -1,3 +1,5 @@
-config:
-  name: config-prod
-  id: config-prod-001
+data:
+  env: config-eureka-dev
+  user:
+    username: eureka-client-user
+    password: 1291029102
